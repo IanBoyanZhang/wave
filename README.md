@@ -36,6 +36,14 @@ install gtkwave on mac through brew
 
 [How do I compile and run a vhdl program on mac](http://stackoverflow.com/questions/17069939/how-do-i-compile-and-run-a-vhdl-program-on-mac/17076963)
 
+ghdl -a CarryRipple.vhd
+
+ghdl -a CarryRipple_tb.vhd
+
+ghdl -e carryRipple_tb
+
+ghdl -r carryRipple_tb --wave=carryRipple_tb.ghw
+
 GDHL index wiki
 [ghdl](http://home.gna.org/ghdl/ghdl/index.html#Top)
 
@@ -44,3 +52,7 @@ GDHL index wiki
 [FPGA programming where to begin?](http://electronics.stackexchange.com/questions/41528/fpga-programming-where-to-begin)
 
 [Learning tips from SparkFun](https://www.sparkfun.com/news/1203)
+
+# examples
+
+[Full adder](http://lauri.xn--vsandi-pxa.com/hdl/ghdl.html)
