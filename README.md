@@ -24,7 +24,23 @@ export PATH="$PATH:/usr/local/gnat/bin/"
 
 following instruction from GHDL github
 
+# gtkwave
 
-# Example
+install gtkwave on mac through brew
+
+[GTK brew](http://brewformulas.org/Gtkwave)
+
+# debug
 
 [Can't find error or configuration](http://stackoverflow.com/questions/7455145/vhdl-analysis-issue-with-ghdl/7455238)
+
+[How do I compile and run a vhdl program on mac](http://stackoverflow.com/questions/17069939/how-do-i-compile-and-run-a-vhdl-program-on-mac/17076963)
+
+GDHL index wiki
+[ghdl](http://home.gna.org/ghdl/ghdl/index.html#Top)
+
+# FPGA Learning tips
+
+[FPGA programming where to begin?](http://electronics.stackexchange.com/questions/41528/fpga-programming-where-to-begin)
+
+[Learning tips from SparkFun](https://www.sparkfun.com/news/1203)
