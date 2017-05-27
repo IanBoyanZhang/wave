@@ -56,3 +56,7 @@ GDHL index wiki
 # examples
 
 [Full adder](http://lauri.xn--vsandi-pxa.com/hdl/ghdl.html)
+
+# Back To Xilinx
+
+[Tutorial:Xilinx ISE 14.4 and Digilent Nexys3](www.ece.utah.edu/~kalla/ECE3700/ISE-Tutorial_Nexy3_Full.pdf)
